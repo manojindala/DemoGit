@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="948" started-at="2022-11-27T06:16:51Z" finished-at="2022-11-27T06:16:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="948" started-at="2022-11-27T06:16:51Z" finished-at="2022-11-27T06:16:52Z">
+      <class name="Maven.MAVENPROJECT.ExcelTestNGDataprovider">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Maven.MAVENPROJECT.ExcelTestNGDataprovider@52e677af]" name="test" duration-ms="5" started-at="2022-11-27T06:16:52Z" data-provider="getdata" finished-at="2022-11-27T06:16:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manual]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[automation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Maven.MAVENPROJECT.ExcelTestNGDataprovider@52e677af]" name="test" duration-ms="1" started-at="2022-11-27T06:16:52Z" data-provider="getdata" finished-at="2022-11-27T06:16:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[systems]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Maven.MAVENPROJECT.ExcelTestNGDataprovider@52e677af]" name="test" duration-ms="1" started-at="2022-11-27T06:16:52Z" data-provider="getdata" finished-at="2022-11-27T06:16:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[indala]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manoj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vizag]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Maven.MAVENPROJECT.ExcelTestNGDataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
